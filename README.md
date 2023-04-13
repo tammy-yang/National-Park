@@ -12,11 +12,10 @@ This code needs the following package to run:
 * tkinter
 
 ## Data Structure
-The project use tree structure to store the data. Please see tree.json file to access tree structure data.
-•	{CA: ['YOSE', 'CABR', 'CHIS', 'DEVA', 'GOGA', 'FOPO', 'EUON', ……]}
-•	{'YOSE': {'Full Name': 'Yosemite National Park', 'LatLong': 'lat:37.84883288, long:-119.5571873',……}}
+The project use tree structure to store the data. Please see tree.json file to access tree structure data. \
+{CA: ['YOSE', 'CABR', 'CHIS', 'DEVA', 'GOGA', 'FOPO', 'EUON', ……]}
+{'YOSE': {'Full Name': 'Yosemite National Park', 'LatLong': 'lat:37.84883288, long:-119.5571873',……}}
 The UNIT_CODE would serve as the unique identifier and a key to match between data.
-![image](https://user-images.githubusercontent.com/112518471/231640636-f3a52859-939a-4f4b-88d4-d53e477dbdda.png)
 
 
 ## Usage
