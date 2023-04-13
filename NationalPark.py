@@ -153,7 +153,7 @@ for val in park_data.values():
 act_list = sorted(act_list)
 
 # PART ONE: NPS API
-api_key = '8fLoe0iHK1uwELcOTRO6FxqkoK2sxuwV2yueUAD0'
+api_key = 'your key'
 # url_example = 'https://developer.nps.gov/api/v1/alerts?parkCode=acad,dena&api_key=8fLoe0iHK1uwELcOTRO6FxqkoK2sxuwV2yueUAD0'
 activities_url = 'https://developer.nps.gov/api/v1/activities?'
 parks_url = 'https://developer.nps.gov/api/v1/parks?'
