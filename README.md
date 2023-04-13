@@ -1,6 +1,6 @@
 # US National Park Information Search
 
-The US National Park Information Search is a tool that allows users to input their needs and get the corresponding results.
+The US National Park Information Search is a tool that allows users to input their needs and get the corresponding results.\
 This code provides information about national parks in the United States using the National Park Service API and web crawling. The information is categorized and stored in a nested dictionary structure.
 
 ## Requirements
@@ -12,9 +12,9 @@ This code needs the following package to run:
 * tkinter
 
 ## Data Structure
-The project use tree structure to store the data. Please see tree.json file to access tree structure data. \
+The project use tree structure to store the data. Please see NP_data.json file to access tree structure data. \
 {CA: ['YOSE', 'CABR', 'CHIS', 'DEVA', 'GOGA', 'FOPO', 'EUON', ……]} \
-{'YOSE': {'Full Name': 'Yosemite National Park', 'LatLong': 'lat:37.84883288, long:-119.5571873',……}}
+{'YOSE': {'Full Name': 'Yosemite National Park', 'LatLong': 'lat:37.84883288, long:-119.5571873',……}} \
 The UNIT_CODE would serve as the unique identifier and a key to match between data.
 
 
